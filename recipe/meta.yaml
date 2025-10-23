@@ -19,7 +19,7 @@ source:
   sha256: be759754e5bd1fcd9b490e224796c87f093c1e92b2b6357854d5371b6aeeb8be  # [linux64 and (cuda_compiler_version or "").startswith("12")]
   sha256: 04b93f4ddb010cde223aeb7713209f37a7bda0b56d72740bc819310876f0d329  # [aarch64 and arm_variant_type=="sbsa" and (cuda_compiler_version or "").startswith("11")]
   sha256: d5cd68d4d09a151ad839a352f6fa01c3f86ccfb498704456892b992c3d8e4c88  # [aarch64 and arm_variant_type=="sbsa" and (cuda_compiler_version or "").startswith("12")]
-  sha256: d5cd68d4d09a151ad839a352f6fa01c3f86ccfb498704456892b992c3d8e4c88  # [aarch64 and arm_variant_type=="tegra" and (cuda_compiler_version or "").startswith("12")]
+  sha256: e8752e3708b54bb0cea0efc4a083218d9d1fc35a443b50343bab1d902f27ec34  # [aarch64 and arm_variant_type=="tegra" and (cuda_compiler_version or "").startswith("12")]
   sha256: 586b2b2347e17ffe95c24b0da3766b67c4b2b98c1fee6fd3c4b4bbd91b2ebbb5  # [win and (cuda_compiler_version or "").startswith("11")]
   sha256: 320ef15635397b00100ca9e18a94fc75de16a8408f4eb9994d18673377dec4fd  # [win and (cuda_compiler_version or "").startswith("12")]
 
